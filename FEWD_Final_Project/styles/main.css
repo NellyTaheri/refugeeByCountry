@@ -1,0 +1,66 @@
+#world-map {
+	margin: 0 auto;
+	margin-top:140px;
+	padding-bottom: 140px;
+	background-color:rgba(255,255,255,.5);
+
+}
+
+body{
+	background-color: white;
+}
+
+header{
+	color:#f77a80;
+	text-align: center;
+	margin-top:250px;
+	font-size:40pt;
+	font-family: Roboto Condensed, sans-serif;
+	font-weight: lighter;
+}
+
+
+
+.description{
+	color:#f77a80;
+	font-size:20px;
+	margin-top:20px;
+}
+h1{
+	color:white;
+	text-align:center;
+	font-size:30pt
+	font-weight: lighter;
+}
+
+
+.long.arrow.down{
+	color:black;
+	margin-left:580px;
+	margin-bottom:200px;
+	margin-top:0px;
+
+}
+
+.ui.teritiary.inverted.red.segment{
+	margin-top: 0px;
+}
+
+
+.range-holder {
+	width: 40%;
+	margin: 40px auto;
+}
+
+.range-value {
+	font-size: 24px;
+	text-align: center;
+	padding-top: 20px;
+	font-weight: 600;
+}
+
+.rangeslider__fill {
+    background:#f21c75a1;
+    position: absolute;
+}
+
